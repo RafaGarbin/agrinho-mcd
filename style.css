@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(243, 243, 245);
+}
+
+header {
+    background-color: rgb(17, 18, 17);
+    color: rgb(241, 236, 236);
+    padding: 2rem;
+    text-align: center;
+}
+header h1{
+    color: rgb(251, 227, 227);
+   
+}
+
+header p{
+    color:rgb(234, 225, 227);
+   
+}
+.imagem img {
+    
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.tema {
+    padding: 2rem;
+    background-color: rgb(236, 178, 71);
+    max-width: 800px;
+    margin: 2rem auto;
+    
+}
+
+.tema h2 {
+    color:rgb(24, 22, 22);
+    margin-top: 1.5rem;
+}
+
+.tema p {
+    color:rgb(249, 245, 243);
+    margin-top: 1.5rem;
+}
+
+footer {
+    background-color: black;
+    color: rgb(222, 69, 38);
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
